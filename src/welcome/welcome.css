@@ -1,0 +1,136 @@
+@import url('/figma/fonts.css');
+
+html.expo-site-active { color-scheme: light; background: #0b0d1a; scroll-behavior: smooth; }
+.expo-site-active body { background: #0b0d1a; }
+.expo-site-active #root { width: 100%; max-width: none; margin: 0; border: 0; text-align: initial; }
+.expo-site { --expo-bg: #0b0d1a; --expo-ink: #ddd7ff; --expo-accent: #7c66ff; background: var(--expo-bg); color: white; font: 400 16px/1.6 Alexandria, sans-serif; letter-spacing: 0; overflow-x: clip; }
+.expo-site *, .expo-site *::before, .expo-site *::after { box-sizing: border-box; }
+.expo-site h1, .expo-site h2, .expo-site h3, .expo-site p { margin: 0; color: inherit; font-family: inherit; letter-spacing: inherit; }
+.expo-site a { color: inherit; text-decoration: none; }
+.expo-site button, .expo-site input { font: inherit; }
+.expo-site button { cursor: pointer; }
+.expo-site button:disabled { cursor: wait; opacity: .6; }
+.expo-site :is(a,button,input):focus-visible { outline: 3px solid #b8aaff; outline-offset: 5px; }
+.figma-asset { display: block; position: absolute; inset: 0; pointer-events: none; }
+.figma-asset img { position: absolute; top: 0; left: 0; max-width: none; transform-origin: top left; display: block; }
+.expo-brand { position: relative; display: inline-block; width: 102px; height: 35.92px; flex-shrink: 0; }
+.expo-brand-large { width: 320px; height: 112.692px; }
+.expo-brand > span { position: absolute; display: block; }
+.brand-word { inset: 10.95% 39.62% 32.51% 0; }
+.brand-latin { inset: 74.57% 39.62% 10.95% 38.68%; }
+.brand-symbol { inset: 0 0 0 64.78%; }
+.expo-header { position: fixed; z-index: 30; top: 0; left: 0; right: 0; height: 64px; padding: 14px 4%; display: flex; align-items: center; justify-content: space-between; direction: ltr; background: linear-gradient(#0b0d1ad9, transparent); }
+.expo-header nav { display: flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 500; }
+.expo-header nav > a { padding: 8px 14px; color: #ddd7ff; }
+.expo-language { min-height: 36px; padding: 7px 15px; border: 1px solid #ffffff24; border-radius: 18px; background: #ffffff12; color: white; font-size: 13.9px !important; }
+.header-brand { display: inline-flex; align-items: center; gap: 16px; }
+.landing-header-brand .expo-brand { width: 85.2px; height: 30px; }
+.brand-hidden { visibility: hidden; }
+.expo-welcome { position: relative; min-height: max(900px,100svh); display: flex; align-items: center; justify-content: center; overflow: hidden; }
+.welcome-atmos { position: absolute; inset: 0; pointer-events: none; }
+.welcome-atmos .glow-one { position: absolute; width: 893px; height: 893px; border-radius: 50%; top: -345px; left: calc(50% + 86px); opacity: .55; background: radial-gradient(#4c3bf28c,transparent 70%); }
+.welcome-atmos .glow-two { position: absolute; width: 809px; height: 809px; top: 553px; left: -174px; opacity: .55; background: radial-gradient(#7c66ff61,transparent 70%); }
+.welcome-orbits { position: absolute; width: 1260px; height: 1260px; top: calc(50% - 630px); left: calc(50% - 630px); opacity: .7; }
+.welcome-atmos::after { content: ''; position: absolute; inset: 0; background: radial-gradient(ellipse,transparent 40%,#0b0d1a 100%); }
+.expo-welcome-content { position: relative; width: min(760px,calc(100% - 40px)); display: flex; flex-direction: column; align-items: center; text-align: center; padding-top: 24px; }
+.expo-site .expo-eyebrow { color: #9e92e7; font-size: 13px; font-weight: 500; line-height: 18.2px; letter-spacing: .5px; }
+.expo-welcome-content > .expo-eyebrow { margin-top: 36px; }
+.expo-welcome-content h1 { margin-top: 18px; font-size: 76px; line-height: 1.08; font-weight: 700; letter-spacing: -.8px; }
+.expo-site .welcome-body { max-width: 671.2px; margin-top: 18px; font-size: 19px; line-height: 33.3px; color: #ddd7ff; }
+.expo-start { margin-top: 36px; display: inline-flex; align-items: center; justify-content: center; gap: 12px; padding: 18px 30px; border-radius: 16px; background: #7c66ff; color: #17182f !important; font-size: 16.1px; line-height: 18px; font-weight: 500; box-shadow: 0 16px 40px #4c3bf273; transition: background .2s, transform .2s; }
+.expo-start:hover { background: #9583ff; transform: translateY(-2px); }
+.start-arrow { width: 18px; height: 18px; position: relative; }
+.expo-site .welcome-hint { margin-top: 20px; color: #8e89b6; font-size: 13px; line-height: 13px; }
+.logo-story { position: relative; height: 300svh; }
+.logo-story-sticky { position: sticky; top: 0; height: 100svh; min-height: 650px; display: grid; grid-template-columns: 14% 44% 34%; align-items: center; justify-content: space-between; direction: ltr; padding: 5% 6% 5% 3%; background: radial-gradient(circle at 40% 50%,#4c3bf229,transparent 45%); }
+.story-rail { list-style: none; font-size: 13px; color: #8e89b6; padding: 0 14px 0 0; border-right: 2px solid #181d3b; text-align: right; }
+.story-rail li { display: flex; align-items: center; justify-content: flex-end; gap: 9px; margin: 12px 0; }
+.story-rail span { width: 9px; height: 9px; border: 1px solid #8e89b6; transform: rotate(45deg); }
+.story-rail .is-current { color: white; }
+.story-rail .is-current span { background: #ddd7ff; }
+.logo-art { position: relative; width: min(100%,465px); aspect-ratio: 465/481; margin-inline: auto; }
+.logo-layer { position: absolute; inset: 0; transition: transform .15s linear; }
+.logo-layer > span { position: absolute; }
+.layer-outer { transform: translate(calc(var(--spread) * 64px),calc(var(--spread) * -35px)); }
+.layer-middle { transform: translate(calc(var(--spread) * -60px),calc(var(--spread) * 35px)); }
+.layer-core { transform: translate(calc(var(--spread) * -200px),calc(var(--spread) * 140px)); }
+.outer-depth { inset: .42% .65% 4.99% 4.3%; }.outer-faces { inset: .62% 1.51% .62% .43%; }
+.middle-depth { inset: 20.17% 20.86% 18.09% 17.2%; }.middle-faces { inset: 20.79% 21.94% 18.09% 17.2%; }
+.core-depth { inset: 37.42% 38.49% 35.14% 33.76%; }.core-faces { inset: 38.25% 39.78% 35.14% 33.76%; }
+.story-caption { text-align: right; direction: rtl; }.expo-site[dir=ltr] .story-caption { direction: ltr; text-align: left; }
+.story-caption h2 { font-size: clamp(30px,3.6vw,52px); line-height: 1.12; font-weight: 700; margin: 14px 0; }
+.story-caption > p:last-child { color: #ddd7ff; font-size: 18px; }
+.expo-features { max-width: 1440px; margin-inline: auto; direction: ltr; }
+.features-desktop { position: relative; }.features-canvas { position: absolute; top: 0; left: 0; width: 1440px; height: 900px; transform-origin: top left; }
+.feature-preview { width: 1440px; height: 900px; direction: ltr; }.feature-preview > div { width: 1440px; height: 900px; }
+.feature-preview [data-name='inactive dim'] { pointer-events: none; }
+.feature-preview [data-node-id='933:10546'] { background: linear-gradient(135deg,#7c66ff66,#ffffff12 48%); }
+.feature-preview button { padding: 0; color: white; }
+.feature-preview.health-shown [data-name='Health Card'] [class*='fp'] { filter: none; }
+.feature-preview.health-shown [data-node-id='933:10602'], .feature-preview.health-shown [data-node-id='933:10579'] { opacity: 0; }
+.feature-preview [data-name='Cover · outside'] { transform-origin: left center; transition: transform 1s; backface-visibility: hidden; }
+.feature-preview.passport-open [data-name='Cover · outside'] { transform: perspective(900px) rotateY(-150deg); }
+.expo-choose { min-height: 900px; min-height: max(900px,100svh); padding: 228px 24px 100px; display: flex; flex-direction: column; align-items: center; text-align: center; background: radial-gradient(ellipse at top,#4c3bf238,transparent 65%); scroll-margin-top: 0; }
+.expo-choose h2 { font-size: 71.9px; line-height: 1.08; font-weight: 700; margin-top: 16px; }
+.expo-site .choose-body { margin-top: 16px; color: #ddd7ff; font-size: 18px; line-height: 29px; }
+.role-cards { display: flex; justify-content: center; gap: 24px; margin-top: 56px; width: 100%; }
+.role-card { position: relative; display: block; width: 400px; min-height: 270px; padding: 32px; border: 1px solid #181d3b; border-radius: 24px; background: #11152d; text-align: start; transition: transform .25s,border-color .25s,box-shadow .25s; }
+.role-card:hover { transform: translateY(-6px); border-color: #7c66ff; box-shadow: 0 16px 45px #4c3bf226; }
+.role-icon { display: block; position: relative; width: 60px; height: 60px; background: #181d3b; border-radius: 16px; margin-inline-start: 0; }
+.role-icon > .figma-asset { inset: 15px; }
+.role-arrow { position: absolute; top: 32px; inset-inline-end: 28px; width: 40px; height: 40px; border: 1px solid #ffffff24; border-radius: 50%; }.role-arrow > .figma-asset { inset: 9px; }
+.role-card h3 { font-size: 34.1px; font-weight: 700; line-height: 39.2px; margin-top: 24px; }.role-alt { display: block; color: #8e89b6; font-size: 14px; line-height: 18.2px; margin-top: 6px; }.expo-site .role-card p { font-size: 15px; line-height: 24px; color: #ddd7ff; margin-top: 16px; }
+.existing-preview { background: none; border: 0; color: #9e92e7; margin-top: 32px; font-size: 13px !important; text-decoration: underline; }
+.expo-light { background: #f8f7fc; color: #17182f; min-height: 100svh; }
+.expo-public-header { position: relative; height: 85px; padding: 16px max(24px,calc((100% - 1200px) / 2)); background: white; border-bottom: 1px solid #e4e2ec; }
+.expo-public-header nav { flex-direction: row-reverse; }.expo-public-header nav a { color: #6449f8; }.expo-public-header .expo-language { border: 0; background: transparent; color: #777a8f; font-size: 14px !important; }
+.merchant-heading { padding-right: 12px; border-right: 1px solid #777a8f; font-size: 20px; order: -1; }
+.login-body { padding: 56px 20px 64px; min-height: calc(100svh - 85px); }
+.expo-login-card { display: flex; flex-direction: column; gap: 16px; width: min(480px,100%); margin: 0 auto; padding: 32px; background: white; border: 1px solid #e4e2ec; border-radius: 16px; text-align: start; }
+.expo-login-card.merchant-login-card { width: min(560px,100%); padding: 40px; }
+.expo-login-card h1 { font-size: 28px; font-weight: 700; line-height: 36px; }
+.expo-login-card > p { color: #777a8f; font-size: 16px; line-height: 24px; }
+.expo-login-card label { display: flex; flex-direction: column; gap: 6px; font-size: 14px; line-height: 20px; font-weight: 500; }
+.expo-login-card input { width: 100%; border: 1px solid #e4e2ec; border-radius: 16px; padding: 16px 18px; height: 58px; background: white; color: #17182f; text-align: start; }
+.expo-login-submit { padding: 16px 20px; border: 0; border-radius: 16px; background: #6449f8; color: white; line-height: 20px; min-height: 52px; }
+.expo-login-submit:hover { background: #5137dc; }
+.expo-login-card .login-note { color: #777a8f; font-size: 12px; line-height: 18px; }.login-back { border: 0; padding: 0; background: transparent; color: #6449f8; font-size: 14px !important; text-align: center; }
+.expo-login-card .expo-error { padding: 12px; background: #fff0f1; color: #9f2436; border-radius: 10px; font-size: 14px; }
+.expo-success { padding: 12px; color: #21664d; background: #edf9f2; border-radius: 10px; font-size: 14px; }.expo-success button { margin-top: 8px; border: 0; background: none; color: #5137dc; text-decoration: underline; }
+.existing-shell-nav { display: flex; justify-content: space-between; align-items: center; padding: 8px 24px; background: #11152d; color: #ddd7ff; font: 14px Alexandria,sans-serif; }.existing-shell-nav button { background: none; border: 0; color: white; padding: 8px; }
+@media(min-width:1600px) { .expo-welcome-content { transform: scale(1.05); } }
+@media(max-width:800px) {
+  .expo-header { padding-inline: 20px; }.expo-header nav { font-size: 12px; }.expo-header nav > a { padding-inline: 8px; }
+  .expo-welcome { min-height: 100svh; padding: 110px 0 80px; }.expo-brand-large { width: 240px; height: 84.52px; }.expo-welcome-content h1 { font-size: clamp(38px,8vw,62px); line-height: 1.18; }.expo-site .welcome-body { font-size: 16px; line-height: 29px; }.expo-welcome-content { padding: 0; }
+  .logo-story { height: 220svh; }.logo-story-sticky { min-height: 700px; grid-template-columns: 1fr; grid-template-rows: 380px auto; padding: 70px 28px 40px; align-content: center; gap: 20px; }.story-rail { display: none; }.logo-art { width: 290px; }.story-caption { text-align: center; }.story-caption h2 { font-size: 32px; }.story-caption > p:last-child { font-size: 15px; }.layer-core { transform: translate(calc(var(--spread) * -70px),calc(var(--spread) * 70px)); }.layer-middle { transform: translate(calc(var(--spread) * -20px),calc(var(--spread) * 20px)); }
+  .expo-choose { min-height: 100svh; padding: 120px 20px 70px; }.expo-choose h2 { font-size: 44px; }.expo-site .choose-body { font-size: 15px; }.role-cards { flex-direction: column; align-items: center; margin-top: 36px; }.role-card { width: min(400px,100%); min-height: 250px; }
+  .login-body { padding-top: 36px; }.expo-public-header { padding-inline: 20px; }.expo-login-card,.expo-login-card.merchant-login-card { padding: 24px; }.merchant-heading { display: none; }.expo-login-card h1 { font-size: 25px; }
+  .expo-features .features-desktop { height: calc(150px + 2190px * var(--card-scale)) !important; }
+  .expo-features .features-canvas { transform: none !important; width: 100%; }
+  .feature-preview,.feature-preview > div,.feature-preview [data-node-id='933:10520'] { width: 100%; height: 100%; }
+  .feature-preview [data-node-id='933:10539'] { left: 0; width: 100%; top: 30px; }
+  .feature-preview [data-node-id='933:10540'] { left: calc(50% - 33px); }
+  .feature-preview [data-node-id='933:10542'] { left: 0; width: 100%; }
+  .feature-preview [data-node-id='933:10543'] { left: 50%; font-size: clamp(18px,4.8vw,32px); }
+  .feature-preview [data-node-id='933:10544'] { left: 0; top: 130px; width: 100%; }
+  .feature-preview [data-node-id='933:10545'] { width: 100%; }
+  .feature-preview [data-node-id='933:10546'],.feature-preview [data-node-id='933:10560'],.feature-preview [data-node-id='933:10580'] { left: 50%; transform: translateX(-50%) scale(var(--card-scale)); transform-origin: top center; }
+  .feature-preview [data-node-id='933:10546'] { top: 0; }
+  .feature-preview [data-node-id='933:10560'] { top: calc(735px * var(--card-scale)); }
+  .feature-preview [data-node-id='933:10580'] { top: calc(1470px * var(--card-scale)); }
+}
+@media(prefers-reduced-motion:reduce) { html.expo-site-active { scroll-behavior: auto; }.expo-site * { transition: none !important; animation: none !important; }.logo-story { height: 100svh; }.logo-layer { transform: none; } }
+
+.expo-site .expo-welcome-content{max-width:none;}
+
+/* Keep the health card and both passport faces upright in the feature preview. */
+.feature-preview .fp131, .feature-preview .fp211, .feature-preview .fp422 {
+  --rot: 0deg; --skew: 0deg; --sy: 1;
+}
+.expo-vision { max-width: 1200px; margin: 0 auto; padding: 96px 24px; text-align: center; }
+.expo-vision h2 { font-size: clamp(28px,4vw,48px); line-height: 1.4; margin: 14px 0 24px; }
+.expo-site .vision-description { max-width: 850px; margin-inline: auto; color: #ddd7ff; font-size: 18px; line-height: 2; }
+.vision-pillars { display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; padding: 0; margin: 36px 0 0; list-style: none; }
+.vision-pillars li { display: flex; align-items: center; gap: 12px; padding: 16px 20px; border: 1px solid #7c66ff55; border-radius: 20px; background: #17152e; }
+.vision-pillars li span { display: grid; place-items: center; width: 32px; height: 32px; border: 1px solid #9e92e7; border-radius: 50%; color: #ddd7ff; }
+@media (max-width: 600px) { .expo-vision { padding: 56px 20px; } .vision-pillars { gap: 12px; } .vision-pillars li { width: 100%; } }

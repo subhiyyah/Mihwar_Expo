@@ -1,0 +1,1702 @@
+{
+  "/figma/choose-imgMihwarWordmark.svg": {
+    "width": 51.4451,
+    "height": 16.9625
+  },
+  "/figma/choose-imgMihwarLatin.svg": {
+    "width": 18.4914,
+    "height": 4.34458
+  },
+  "/figma/choose-imgMihwarSymbol.svg": {
+    "width": 30.0043,
+    "height": 30.0043
+  },
+  "/figma/choose-imgIcon.svg": {
+    "width": 30.0,
+    "height": 30.0
+  },
+  "/figma/choose-imgIcon1.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma/choose-imgIcon2.svg": {
+    "width": 30.0,
+    "height": 30.0
+  },
+  "/figma/features-imgMihwarWordmark.svg": {
+    "width": 51.4451,
+    "height": 16.9625
+  },
+  "/figma/features-imgMihwarLatin.svg": {
+    "width": 18.4914,
+    "height": 4.34458
+  },
+  "/figma/features-imgMihwarSymbol.svg": {
+    "width": 30.0043,
+    "height": 30.0043
+  },
+  "/figma/features-imgMihwarWordmark1.svg": {
+    "width": 26.7539,
+    "height": 8.82128
+  },
+  "/figma/features-imgMihwarLatin1.svg": {
+    "width": 9.6164,
+    "height": 2.25939
+  },
+  "/figma/features-imgMihwarSymbol1.svg": {
+    "width": 15.6037,
+    "height": 15.6037
+  },
+  "/figma/features-imgIcon.svg": {
+    "width": 11.3429,
+    "height": 11.3429
+  },
+  "/figma/features-imgIcon1.svg": {
+    "width": 11.3429,
+    "height": 11.3429
+  },
+  "/figma/features-imgIcon2.svg": {
+    "width": 11.3429,
+    "height": 11.3429
+  },
+  "/figma/features-imgIcon3.svg": {
+    "width": 11.3429,
+    "height": 11.3429
+  },
+  "/figma/features-imgIcon4.svg": {
+    "width": 11.3429,
+    "height": 11.3429
+  },
+  "/figma/features-imgIcon5.svg": {
+    "width": 397.0,
+    "height": 414.014
+  },
+  "/figma/features-imgIcon6.svg": {
+    "width": 9.925,
+    "height": 9.925
+  },
+  "/figma/features-imgIcon7.svg": {
+    "width": 9.925,
+    "height": 9.925
+  },
+  "/figma/features-imgIcon8.svg": {
+    "width": 9.925,
+    "height": 9.925
+  },
+  "/figma/features-imgIcon9.svg": {
+    "width": 12.7607,
+    "height": 12.7607
+  },
+  "/figma/features-imgIcon10.svg": {
+    "width": 9.925,
+    "height": 9.925
+  },
+  "/figma/features-imgIcon11.svg": {
+    "width": 12.7607,
+    "height": 12.7607
+  },
+  "/figma/features-imgIcon12.svg": {
+    "width": 9.21607,
+    "height": 9.21607
+  },
+  "/figma/features-imgIcon13.svg": {
+    "width": 9.21607,
+    "height": 9.21607
+  },
+  "/figma/features-imgIcon14.svg": {
+    "width": 14.1786,
+    "height": 14.1786
+  },
+  "/figma/features-imgIcon15.svg": {
+    "width": 13.7674,
+    "height": 14.8405
+  },
+  "/figma/features-imgIcon16.svg": {
+    "width": 13.7674,
+    "height": 14.8405
+  },
+  "/figma/features-imgIcon17.svg": {
+    "width": 12.5158,
+    "height": 13.4914
+  },
+  "/figma/features-imgIcon18.svg": {
+    "width": 13.7674,
+    "height": 14.8405
+  },
+  "/figma/features-imgIcon19.svg": {
+    "width": 13.7674,
+    "height": 14.8405
+  },
+  "/figma/features-imgIcon20.svg": {
+    "width": 13.7674,
+    "height": 14.8405
+  },
+  "/figma/features-imgIcon21.svg": {
+    "width": 13.7674,
+    "height": 14.8405
+  },
+  "/figma/features-imgIcon22.svg": {
+    "width": 13.7674,
+    "height": 14.8405
+  },
+  "/figma/features-imgIconEye.svg": {
+    "width": 15.8,
+    "height": 15.8
+  },
+  "/figma/features-imgGroundShadow.svg": {
+    "width": 273.7,
+    "height": 49.8
+  },
+  "/figma/features-imgPpEmblem.svg": {
+    "width": 19.0001,
+    "height": 18.3431
+  },
+  "/figma/features-imgIcon23.svg": {
+    "width": 31.0817,
+    "height": 30.007
+  },
+  "/figma/features-imgIcon24.svg": {
+    "width": 31.2882,
+    "height": 30.2064
+  },
+  "/figma/features-imgPpEmblem1.svg": {
+    "width": 27.3044,
+    "height": 26.3872
+  },
+  "/figma/features-imgIconBook.svg": {
+    "width": 15.8,
+    "height": 15.8
+  },
+  "/figma/logo-imgMihwarWordmark.svg": {
+    "width": 51.4451,
+    "height": 16.9625
+  },
+  "/figma/logo-imgMihwarLatin.svg": {
+    "width": 18.4914,
+    "height": 4.34458
+  },
+  "/figma/logo-imgMihwarSymbol.svg": {
+    "width": 30.0043,
+    "height": 30.0043
+  },
+  "/figma/logo-imgDepthWalls.svg": {
+    "width": 129.0,
+    "height": 132.0
+  },
+  "/figma/logo-imgFaces.svg": {
+    "width": 123.0,
+    "height": 128.0
+  },
+  "/figma/logo-imgDepthWalls1.svg": {
+    "width": 288.0,
+    "height": 297.0
+  },
+  "/figma/logo-imgFaces1.svg": {
+    "width": 283.0,
+    "height": 294.0
+  },
+  "/figma/logo-imgDepthWalls2.svg": {
+    "width": 442.0,
+    "height": 455.0
+  },
+  "/figma/logo-imgFaces2.svg": {
+    "width": 456.0,
+    "height": 475.0
+  },
+  "/figma/merchant-login-imgMihwarWordmark.svg": {
+    "width": 61.5892,
+    "height": 20.3072
+  },
+  "/figma/merchant-login-imgMihwarLatin.svg": {
+    "width": 22.1376,
+    "height": 5.20125
+  },
+  "/figma/merchant-login-imgMihwarSymbol.svg": {
+    "width": 35.9207,
+    "height": 35.9207
+  },
+  "/figma/visitor-login-imgMihwarWordmark.svg": {
+    "width": 61.5892,
+    "height": 20.3072
+  },
+  "/figma/visitor-login-imgMihwarLatin.svg": {
+    "width": 22.1376,
+    "height": 5.20125
+  },
+  "/figma/visitor-login-imgMihwarSymbol.svg": {
+    "width": 35.9207,
+    "height": 35.9207
+  },
+  "/figma/welcome-imgIconArrowDown.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma/welcome-imgOrbitRings.svg": {
+    "width": 1260.0,
+    "height": 1260.0
+  },
+  "/figma/welcome-imgMihwarWordmark.svg": {
+    "width": 193.221,
+    "height": 63.7088
+  },
+  "/figma/welcome-imgMihwarLatin.svg": {
+    "width": 69.4512,
+    "height": 16.3177
+  },
+  "/figma/welcome-imgMihwarSymbol.svg": {
+    "width": 112.692,
+    "height": 112.692
+  },
+  "/figma-ui/13bf61a69481c9d093ff.svg": {
+    "width": 36.0,
+    "height": 36.0
+  },
+  "/figma-ui/75343a52c120a1f4e402.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/62565de4f41badf17350.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/aa671c6dfa9f8041349e.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/d8b70c2744bdbe115e44.svg": {
+    "width": 28.0,
+    "height": 28.0
+  },
+  "/figma-ui/d5bd5c674e77ca6ee9c0.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/da6f9ecdbcc1fd2574fa.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/816bbb56959ebce5933d.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/a50f0a6b6df57941d786.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/0851c05eb6303d8ee01b.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/45b91364188b9c4a3377.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/94e248bbbd3b53027e06.svg": {
+    "width": 36.0,
+    "height": 36.0
+  },
+  "/figma-ui/9bc97a43e6f4358e08f9.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/d02810f94f377361d4b2.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/98a43c5e64bde1416738.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/98f702342db8f2a7c25c.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/080c93394f6fee9ccc91.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/f137cdee572e66c12962.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/8645ab828ac097415294.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/106bd572c4c8c111ca27.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/57386a12e24e32d9e59b.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/a4ad342b229b6d31a398.svg": {
+    "width": 36.0,
+    "height": 36.0
+  },
+  "/figma-ui/f2fc745545a99e278b02.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/af0ef50abe1dcf8987f7.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/3656ed5d125d86646df6.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/d7d6c71314e2e5d2fd07.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/a76c5d824b96cd3e5b83.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/9259b7aad012c88d94ce.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/1d77654e83baf8efd02d.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/2a06cf7140fa32f7480b.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/6ae86cf70eb1f01d7065.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/371c7d3aaed82d542ed5.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/263bdbab267bca72591f.svg": {
+    "width": 36.0,
+    "height": 36.0
+  },
+  "/figma-ui/4f8103f1ceb366da02e5.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/ef825c3403690883b81c.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/20fd351312e535e33a16.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/0a12a87f0ed0808560f5.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/74ea19aaafc794b3df15.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/23de32f99e46f6e4ada1.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/52936ea98b941141dc2d.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/26168babbb04c423c694.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/fc809608825fe9a5bc2d.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/ba043174d1fcffb6631e.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/2534ef70f24bc7253673.svg": {
+    "width": 36.0,
+    "height": 36.0
+  },
+  "/figma-ui/ff39fb6e28567b709e98.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/0697a3814361c66fa39d.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/62677c109d5413d4ddc1.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/3bcf203fb6173b8a8ba3.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/95f14dd6a437ff7e5aa5.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/49382492760b1e32d354.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/16afd85c9668ae0f7a35.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/5c9c4cb58310d2ee7337.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/613dec34b705b972a9a9.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/b1c50e478a4dc21d0314.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/ede8ddaf2e22a9792449.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/20c2a63d433d404ccb93.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/96e67e8bd75311c41314.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/d769acebd280f00a1499.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/480a5c834d715985f9dc.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/559c9eaa4b9cfa2fced9.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/3388f9ec79b59af21301.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/5e851988cff6291c5589.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/d943f7b871cedac198ec.svg": {
+    "width": 36.0,
+    "height": 36.0
+  },
+  "/figma-ui/81702a04745905d00b58.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/a0b69fbce66f5b2e94ab.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/d37675a610bb0a9e7611.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/4a9a068ea3d6c78ef01b.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/7f26c1873c428d53839b.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/2fbc38bb2d6f006c69a2.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/b072cc079a2b12f85e53.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/b8710a286c192d253637.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/6313691737537043c8a7.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/612dd77eb5f43f0473cf.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/cb044bd0994b8636dcb0.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/cd5aada199b993a130b5.svg": {
+    "width": 36.0,
+    "height": 36.0
+  },
+  "/figma-ui/3d5ce85df783ca00522d.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/11bd1328b5c44ba8add9.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/26a455041f6f375fc580.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/37c76046f394fbb368e5.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/2b2ce571a9dfc9b68977.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/23de4efbcea38b7d81e6.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/4166277636be6357192d.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/fbfba51b2befa449dbc3.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/1b50af1eb23155148aa2.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/d5e293a50a01b29de36c.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/2f2d9ca7d3274831a9e0.svg": {
+    "width": 36.0,
+    "height": 36.0
+  },
+  "/figma-ui/f755b72a32aabdb973c9.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/52b6db527d3248792424.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/165116b6e2407bd74713.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/e8b0c41614e60d797ba2.svg": {
+    "width": 40.0,
+    "height": 22.0
+  },
+  "/figma-ui/c8732f7e56dc7f5d0e09.svg": {
+    "width": 40.0,
+    "height": 22.0
+  },
+  "/figma-ui/e4e8e13b7353cb222596.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/6678aedddd61103d04f8.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/496aab2c68bdd3688e0c.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/d0682b296835ef804db9.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/20fef5e10b9861bf2c44.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/5a0d9818836bdaaed4b0.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/b7ebd1afd41196b2e6bc.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/87d7e90584b47c4fc03e.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/6e40cb5474edd74b6c87.svg": {
+    "width": 36.0,
+    "height": 36.0
+  },
+  "/figma-ui/cd639e8c25328004961b.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/22e4ead5e3711bf8490a.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/bfee4d26365e92075036.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/3b6a95c2bfb0bf1ad2ab.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/c928c1b1b80a5595496e.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/0fbb12a5c7cad0595333.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/e0a427d7b3d45298fe05.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/37ef59623a3a264a4dc4.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/7eed9a001a7f50bfa189.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/adf3460ef6689421a93d.svg": {
+    "width": 22.0,
+    "height": 22.0
+  },
+  "/figma-ui/d4d99fc9279bacfac21b.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/bc2e28703c99a6a517bd.svg": {
+    "width": 36.0,
+    "height": 36.0
+  },
+  "/figma-ui/277d7642901d72a52d26.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/1e873e43ff7438cbf253.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/c5142418d6eb890d0cd8.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/76f68270c0a6d5f305e8.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/37e8ddf3b18427b87101.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/962d507866222204cf51.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/cfecfa0aa643222293b6.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/4362bef6e1d77d3eb092.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/5e0550cc070fee2e8c16.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/79a0c25e2f0afbadb4d8.svg": {
+    "width": 36.0,
+    "height": 36.0
+  },
+  "/figma-ui/9f360f549fe08fac9984.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/7aea5e1f56c4df22e94e.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/a5232fe4c0799810aa2f.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/93116d92a108daa90135.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/59ff477dfae3114ef7c8.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/9fadf7a3fa91bc5ef096.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/3e9d4652bfc3e7302c59.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/1e829db417cdc9b50204.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/483110752b006a7673f1.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/d855d2672f9b1873dec6.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/47f760ea14c1fca9b236.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/1684889c06fc511d2de6.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/0699071827461c24f996.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/5b7bff56da9d42f908d2.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/38dc13f150e269cbdc32.svg": {
+    "width": 36.0,
+    "height": 36.0
+  },
+  "/figma-ui/57f60b1aec8c11ff061f.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/75c66fe43e69ca0708f7.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/d8dc7a7b4a609f5ef582.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/eb30071b6b59b1ed540a.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/9b80dc0d13dc03c6104a.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/7c174bfb73937d4da2d4.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/5fad591aafb63ce1ee26.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/e3a4cf3666259a0cea77.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/c5f31ffca83a6b0285b5.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/48b652cee122a0559878.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/7d74b4e22353e4901cb3.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/fb370eefdf19d76988e4.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/97506b2fc92cb65c78fe.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/f08184be1cdb8caae69c.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/9ae169c4370d9209a029.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/9cea420bb7ba4bd34885.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/5bd0118cd9a8a513f3c3.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/4cd48836fa3de91387d1.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/72ab27341626838b88ff.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/8bc4e0f0518d9ac79f52.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/5ab7414b81801c0781c9.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/42f906562ba0f1f1ea3a.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/2d57c396ce1ac5ae4e31.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/a952cf2d30cb0aeecd04.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/dbe8ca5d56adec44fdeb.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/4daf7d4a6577c4bd0c05.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/8e5c7181681b1f0d1a59.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/9f8db7c4d9cc9d050312.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/55f0ae8fc1276f4c4d8e.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/d6bf4be774026db7b04e.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/b3f9a57838c863a52d0f.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/05392f4dddc70ca5ec5c.svg": {
+    "width": 22.0,
+    "height": 22.0
+  },
+  "/figma-ui/bc52d7a3f579468b9733.svg": {
+    "width": 22.0,
+    "height": 22.0
+  },
+  "/figma-ui/4054196e238a2f2abe1e.svg": {
+    "width": 22.0,
+    "height": 22.0
+  },
+  "/figma-ui/deac2bc36bd262c7ad4a.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/f75a85bcbacfc1a2f05c.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/0b09c3b189dcd93da410.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/2ab90dbdb9582a2e9e0c.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/38b1b039a9c334176f12.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/ca3781cc2f800230472b.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/ecee4a9a912467665233.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/cb2619d7bd523705ae75.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/252486e649d459900230.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/6581c42354e21487daa1.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/164e74f5e62a2edaadb9.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/e6f1fbc782b95c45f4d6.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/7f02b648472b62ca4c1d.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/e10f36cb840eddab2321.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/1dba1fa471dbd07aff49.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/ca196e648ba59603119c.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/e19b82e3d7d4e8a33b42.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/278c66d634646c823675.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/6b036f32e01012d07cce.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/cb673aabbac8d1e6efc3.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/e2edb7447d2b7019f5b5.svg": {
+    "width": 28.0,
+    "height": 28.0
+  },
+  "/figma-ui/acc373a6ede2650dd2c9.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/be21ec365d9cbe3cf357.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/4d9b52055dd303e288e1.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/d5a7dac6babad3687deb.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/1de4f6b9cd0f992de0c4.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/74cdba5ba2b81b9e57ca.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/adeb8b5f9a71f70af16a.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/e8d4d73f8e5127e2c3bc.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/bb5441128506bf44c487.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/8a91f4e5ef7820d12bab.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/e4187393c3dc05830503.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/6a920716aaf5c5f0fe51.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/8f4c431cc121fbb6f032.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/f8bc6514fafaed7f3edf.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/35e354dd11eac4297e4c.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/d2337c43f52d19bf04cd.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/a23f4db74c39298faf86.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/6e6605239bea03b162b8.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/7d69f5c8a264c42d361e.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/6abe7a72b459a9b4fa14.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/d71affe36dc42801a95b.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/c30b446431e90a59e1c4.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/f420e69e293ebe447e8a.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/0f5fd3c9bae3f35939e3.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/992efdbe5c7b7fda614f.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/e73b61c525e2a37e8d71.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/8f3e0bb0f6fe86e2cbe4.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/e415b432030195c81870.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/4ba7ec3c4ed97e42b425.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/e62178136f33ff733ac6.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/85cde376e4fe7b4b49d7.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/bef27ec063d7f5b31091.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/27f28df2cad801cb4124.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/8269f9cbd0482913ace1.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/b6dab266e784eac3d083.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/bd8e0c5dba92113b9b29.svg": {
+    "width": 22.0,
+    "height": 22.0
+  },
+  "/figma-ui/9e1926ddc0a11593820f.svg": {
+    "width": 22.0,
+    "height": 22.0
+  },
+  "/figma-ui/c24f75583cccaeeb3002.svg": {
+    "width": 22.0,
+    "height": 22.0
+  },
+  "/figma-ui/c15c1fa7cd960b3b2249.svg": {
+    "width": 22.0,
+    "height": 22.0
+  },
+  "/figma-ui/ac6cd967ed7fc467e6c8.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/814a7fda3d45c6bf68e5.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/bc6b7b9eef7a853564fb.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/cc041de8e175447b732f.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/a86af3aad7e26be7d712.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/4f6397c01d073082f586.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/e8e823963c8e6251005b.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/aae4e7c4a73181cc8a92.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/f5fe27d44ee399e08e7e.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/dc8cf19368ff77021e91.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/a3b980b178a9c4500d40.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/6eed7e7212d8ff77d432.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/087e1e9903b2669b8f6b.svg": {
+    "width": 28.0,
+    "height": 28.0
+  },
+  "/figma-ui/844aacf4d2370ebc58b5.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/9aad934fa292ed5c1403.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/5bb60ba406dc2f10f90b.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/c0291fce77d7d4e0f6da.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/36e244a52c44e31aeb00.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/1411f9eaf41d3996c7ec.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/172536df2e96c57307cb.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/ec174cc1edd9410f22dd.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/656b0ebf401a7e98be43.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/06ab20edf50458c0c71e.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/edf05985b647d21196b8.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/3137b4d5ee2cdafa1e83.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/0a0b2965ec77e12d2aa5.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/c75b4d8867bf5b32b6d9.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/87ed0fb7b71a50f81921.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/2383f0b0b0249393413a.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/73c2f479954cc4cd24ce.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/4035d53bc4cb1ea8486e.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/2113a46ebe6c3e7bb9b8.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/e24f115d13de70bb5ecc.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/d39e4a6501f39d3bcded.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/24b6565014d26be5f3f8.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/635ff97164a43241caba.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/8ad24a202507672e8485.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/89713917d594f28a458f.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/b8d624361aff33b5b2ae.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/e3c0c7ff070e4352e71d.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/315024c64925898d0292.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/e26def392fa2ccfc85d4.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/12bb3634f82218066a33.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/8aa034ac228be55fe4dd.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/8adfd51c115372cff65d.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/743d878272499ff8bf5a.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/b100a7b295a71909ebd2.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/3f6690d6b5e3c33c49c4.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/f30e35d46e5023a6eafe.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/d9e24f0e97fb88ff518d.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/000821aa22de9c8880bd.svg": {
+    "width": 130.909,
+    "height": 130.909
+  },
+  "/figma-ui/16c26ef563d6b3a26210.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/dc4687aaa0c7024440e0.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/c99919cc733901f61c64.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/f90ea33c88471479d5b5.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/b9dc0e9d73dbc08c624e.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/e5a223193ca8f51b8312.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/3da03628b66362f57ff3.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/b446a7c92c00e5adfcd4.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/a103043b023ccc1daa64.svg": {
+    "width": 64.0,
+    "height": 64.0
+  },
+  "/figma-ui/5e6574352d74451e9258.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/a175527406ecea99a35b.svg": {
+    "width": 97.6093,
+    "height": 97.6093
+  },
+  "/figma-ui/59a7fd2dade8ec156b22.svg": {
+    "width": 36.6545,
+    "height": 36.6545
+  },
+  "/figma-ui/67645275b9fbc794408f.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/4982b4fe82d9edba895c.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/774ea18505cd5a6556f4.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/c2f1bd116f78b6005ccd.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/750e24ada2a7a18f0dc5.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/9513556983b257b03412.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/8f9ab4886822f1632e7c.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/be6e82b8d6eadae59fec.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/9eeb116c9a3c27ed87c7.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/72e56042aa37e8838c8f.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/b5bdf2ee155303ac9517.svg": {
+    "width": 20.0,
+    "height": 20.0
+  },
+  "/figma-ui/60e4f5f4f2d72d5d4536.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/98a9cdd6889dec409ff0.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/b9c141e46bd9b62483b3.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/fe0eff435c2d66ca10fa.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/2f7468cbf945a0bd2192.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/9adc3f5ab8357dedc041.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/da93488acc04bd05efff.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/3e2149c93d1fd225ad80.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/e6588d35e9173ffae234.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/a862a75826786f7cbd6d.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/5a07b87f2c9f01f5dcd1.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/e2b84676ae96663b408a.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/2a622189157c9343adfd.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/217303950b33bf4f5192.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/cfb97aa8986e35fac107.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/a3f76bfde11fb68ceb9d.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/38969e0297e733a937c1.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/94488de553f7feb08c73.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/c291692ad45243121c30.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/96794f7ec2e3d66f53a2.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/8d598e4fe558aa0779c0.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/decc9dfd621033f3261f.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/6a7b389eb4fb2cf2d795.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/7c25f0bfb2da51cf1038.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/17686e30af4d9483e8d0.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/5b44c4a33ce48d175198.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/9e50bdf4745102a1430e.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/73904cbd1d9cab589ac6.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/40e15ff340832afd4cc0.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/788956f8f7aefb86a06f.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/58c44c831faabb601129.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/da24eb36a1257e8d1406.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/a77ffd9454630b68e271.svg": {
+    "width": 40.0,
+    "height": 22.0
+  },
+  "/figma-ui/6cacd60f7ae1ddb3e5a2.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/105e63443ade49487c58.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/975aeec210554c7ee6b5.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/f3b48a15ce1d77126bbe.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/5e88305eccfc66810c17.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/51fa315789a169ec398a.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/0d33477dfe2f681fe989.svg": {
+    "width": 16.0,
+    "height": 16.0
+  },
+  "/figma-ui/0f42d40af730e5a3a2cc.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/fa7ec6be3d53c58e068a.svg": {
+    "width": 22.0,
+    "height": 22.0
+  },
+  "/figma-ui/ad33060bb4a0e2fbef67.svg": {
+    "width": 22.0,
+    "height": 22.0
+  },
+  "/figma-ui/3a015d1dc1cab2ed7289.svg": {
+    "width": 22.0,
+    "height": 22.0
+  },
+  "/figma-ui/e15e71467f2686b4d966.svg": {
+    "width": 22.0,
+    "height": 22.0
+  },
+  "/figma-ui/e74170541ae1455bdca0.svg": {
+    "width": 22.0,
+    "height": 22.0
+  },
+  "/figma-ui/47e5d15e4857653d5a9b.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/44e68ad7bedb0d85bce0.svg": {
+    "width": 480.0,
+    "height": 480.0
+  },
+  "/figma-ui/e7e14e361feb5b56bac9.svg": {
+    "width": 61.5892,
+    "height": 20.352
+  },
+  "/figma-ui/ccbf64453b3f4ae3d970.svg": {
+    "width": 22.1376,
+    "height": 5.21274
+  },
+  "/figma-ui/26f2e3f4f36e4d44c25e.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/9455ce20f9fcbb6dbfd4.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/475d1ed11e7371c55570.svg": {
+    "width": 24.0,
+    "height": 24.0
+  },
+  "/figma-ui/f5d990c1297a92754d76.svg": {
+    "width": 18.0,
+    "height": 18.0
+  },
+  "/figma-ui/27ca24d0d348b058d5d4.svg": {
+    "width": 22.0,
+    "height": 22.0
+  },
+  "/figma-ui/faf7b26481252fab29e0.svg": {
+    "width": 22.0,
+    "height": 22.0
+  },
+  "/figma-ui/9799f0fb92536fd68304.svg": {
+    "width": 22.0,
+    "height": 22.0
+  },
+  "/figma-ui/5a289236a954a549d1b9.svg": {
+    "width": 22.0,
+    "height": 22.0
+  }
+}
